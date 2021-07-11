@@ -1,6 +1,5 @@
 {
-  "token": "TokenHere", 
-  "prefix": "YourPrefix",
+  "prefix": "f!",
   "everyoneMention": false,
-  "hostedBy": true
+  "hostedBy": false
 }
